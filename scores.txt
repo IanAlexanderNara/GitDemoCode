@@ -2,3 +2,7 @@ Jimmy Neutron
 100000
 Marcus Aurellius
 50209
+Person McPerson
+75000
+James Bond
+4800000
